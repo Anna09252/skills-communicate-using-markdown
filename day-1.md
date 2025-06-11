@@ -7,3 +7,7 @@ create branch
 add markdown file
 finish github course
 
+- [ ] Check out
+- [ ] Learn about GitHub pages 
+- [ ] Convert my first blog post into an actual webpage.
+
